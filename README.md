@@ -37,14 +37,6 @@
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,java,ts,js,vue,nuxtjs,html,css,firebase,mongodb,sqlite,azure,figma,git,linux&theme=dark&perline=16">
-  <img alt="Flutter, Dart, Java, TypeScript, JavaScript, Vue, Nuxt, HTML, CSS, Firebase, MongoDB, SQLite, Azure, Figma, Git, Linux" src="https://skillicons.dev/icons?i=flutter,dart,java,ts,js,vue,nuxtjs,html,css,firebase,mongodb,sqlite,azure,figma,git,linux&theme=light&perline=16">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Flutter, Dart, Java, TypeScript, JavaScript, Vue, Nuxt, HTML, CSS, Firebase, MongoDB, SQLite, Azure, Figma, Git, Linux" src="assets/stack-light.svg">
 </picture>
-
-<br><br>
-
-### Currently
-
-- Shipping new releases of **Eclipse** for Android
-- Building out **Studies and Awards**, from the website to the AI tooling behind it
-- Open to freelance and contract work: mobile apps, business websites, UI design
