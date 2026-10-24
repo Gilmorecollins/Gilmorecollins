@@ -1,16 +1,13 @@
-<h1>Gilmore Collins</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Gilmore Collins. Mobile and web developer in Nairobi, Kenya. I design products in Figma and build them end to end: Flutter apps for Android and fast, responsive websites." src="assets/header-light.svg" width="100%">
+</picture>
 
 <p>
-  <strong>Mobile and web developer in Nairobi.</strong><br>
-  I design products in Figma, then build them end to end: Flutter apps for Android,
-  and fast, responsive websites for businesses.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/gilmore-collins-0456a3245/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/gilmorecollins">X</a> &nbsp;·&nbsp;
-  <a href="https://dev.to/gilmorecollins">dev.to</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/gilmore.collins">Instagram</a>
+  <a href="https://www.linkedin.com/in/gilmore-collins-0456a3245/"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="36"></a>
+  <a href="https://x.com/gilmorecollins"><img alt="X" src="assets/btn-x.svg" height="36"></a>
+  <a href="https://dev.to/gilmorecollins"><img alt="dev.to" src="assets/btn-devto.svg" height="36"></a>
+  <a href="https://instagram.com/gilmore.collins"><img alt="Instagram" src="assets/btn-instagram.svg" height="36"></a>
 </p>
 
 <br>

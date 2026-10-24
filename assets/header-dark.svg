@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <style>
+    .r { animation: rise .8s cubic-bezier(.2,.7,.2,1) backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .r { animation: none; } }
+  </style>
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5c451" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#f5c451" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1000" height="260" rx="16"/></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="259" rx="16" fill="#0d1117" stroke="#30363d"/>
+
+  <g clip-path="url(#card)">
+    <circle cx="820" cy="130" r="120" fill="url(#halo)"/>
+    <ellipse id="orbit" cx="820" cy="130" rx="130" ry="40" fill="none" stroke="#30363d" transform="rotate(-18 820 130)"/>
+    <circle cx="820" cy="130" r="56" fill="#f5c451"/>
+    <circle cy="118" r="52" fill="#0d1117">
+      <animate attributeName="cx" values="838;846;838" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <g transform="rotate(-18 820 130)">
+      <circle r="4" fill="#e6edf3">
+        <animateMotion dur="14s" repeatCount="indefinite" path="M690 130 a130 40 0 1 0 260 0 a130 40 0 1 0 -260 0"/>
+      </circle>
+    </g>
+  </g>
+
+  <text class="r" x="56" y="84" font-size="13" font-weight="600" letter-spacing="2" fill="#f5c451">MOBILE &amp; WEB DEVELOPER · NAIROBI, KENYA</text>
+  <text class="r" style="animation-delay:.12s" x="54" y="142" font-size="52" font-weight="700" fill="#e6edf3">Gilmore Collins</text>
+  <text class="r" style="animation-delay:.24s" x="56" y="184" font-size="18" fill="#9198a1">I design products in Figma and build them end to end:</text>
+  <text class="r" style="animation-delay:.3s" x="56" y="210" font-size="18" fill="#9198a1">Flutter apps for Android and fast, responsive websites.</text>
+</svg>
