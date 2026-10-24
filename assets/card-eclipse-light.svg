@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="140" viewBox="0 0 420 140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="419" height="139" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="24" y="24" width="48" height="48" rx="12" fill="#0f172a"/>
+  <circle cx="48" cy="48" r="13" fill="#f5c451"/>
+  <circle cx="52" cy="45" r="11.5" fill="#0f172a"/>
+  <text x="92" y="44" font-size="18" font-weight="600" fill="#1f2328">Eclipse</text>
+  <text x="92" y="64" font-size="12" fill="#59636e" letter-spacing="0.4">ANDROID APP</text>
+  <text x="24" y="98" font-size="13.5" fill="#424a53">An Android app built with Flutter. The latest APK</text>
+  <text x="24" y="116" font-size="13.5" fill="#424a53">is available on the Releases page.</text>
+  <circle cx="380" cy="44" r="5" fill="#00B4AB"/>
+  <text x="372" y="48" font-size="12" fill="#59636e" text-anchor="end">Flutter · Dart</text>
+</svg>

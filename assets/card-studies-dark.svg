@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="140" viewBox="0 0 420 140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="419" height="139" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="24" y="24" width="48" height="48" rx="12" fill="#1d4ed8"/>
+  <g transform="translate(48 46)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M0 -8 L15 -1 L0 6 L-15 -1 Z" fill="#ffffff"/>
+    <path d="M-9 2 V9 C-9 13 9 13 9 9 V2"/>
+    <path d="M15 -1 V8"/>
+  </g>
+  <text x="92" y="44" font-size="18" font-weight="600" fill="#e6edf3">Studies and Awards</text>
+  <text x="92" y="64" font-size="12" fill="#9198a1" letter-spacing="0.4">CLIENT WEBSITE</text>
+  <text x="24" y="98" font-size="13.5" fill="#c9d1d9">Helping Kenyan students study in Australia, the UK,</text>
+  <text x="24" y="116" font-size="13.5" fill="#c9d1d9">Canada, Germany, Ireland and New Zealand.</text>
+  <circle cx="380" cy="44" r="5" fill="#e34c26"/>
+  <text x="372" y="48" font-size="12" fill="#9198a1" text-anchor="end">HTML · CSS · JS</text>
+</svg>
