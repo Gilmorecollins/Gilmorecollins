@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Gilmore Collins. Mobile and web developer in Nairobi, Kenya. I design products in Figma and build them end to end: Flutter apps for Android and fast, responsive websites." src="assets/header-light.svg" width="100%">
+  <img alt="Gilmore Collins. Every project starts as a frame in Figma and ends up in a pocket or on a homepage." src="assets/header-light.svg" width="100%">
 </picture>
 
 <p>

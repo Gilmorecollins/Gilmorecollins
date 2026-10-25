@@ -47,8 +47,7 @@
   <g class="s8"><rect x="860" y="138" width="74" height="16" rx="5" fill="#21262d"/><rect x="860" y="160" width="74" height="16" rx="5" fill="#21262d"/><rect x="860" y="182" width="74" height="16" rx="5" fill="#21262d"/></g>
   <g class="s9"><rect x="860" y="206" width="74" height="10" rx="5" fill="#30363d"/><circle cx="874" cy="211" r="3" fill="#f5c451"/></g>
 
-  <text class="r" x="56" y="84" font-size="13" font-weight="600" letter-spacing="2" fill="#f5c451">MOBILE &amp; WEB DEVELOPER · NAIROBI, KENYA</text>
-  <text class="r" style="animation-delay:.12s" x="54" y="142" font-size="52" font-weight="700" fill="#e6edf3">Gilmore Collins</text>
-  <text class="r" style="animation-delay:.24s" x="56" y="184" font-size="18" fill="#9198a1">I design products in Figma and build them end to end:</text>
-  <text class="r" style="animation-delay:.3s" x="56" y="210" font-size="18" fill="#9198a1">Flutter apps for Android and fast, responsive websites.</text>
+  <text class="r" x="54" y="120" font-size="52" font-weight="700" fill="#e6edf3">Gilmore Collins</text>
+  <text class="r" style="animation-delay:.12s" x="56" y="162" font-size="18" fill="#9198a1">Every project starts as a frame in Figma</text>
+  <text class="r" style="animation-delay:.18s" x="56" y="188" font-size="18" fill="#9198a1">and ends up in a pocket or on a homepage.</text>
 </svg>
