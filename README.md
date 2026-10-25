@@ -1,13 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Gilmore Collins. Every project starts as a frame in Figma and ends up in a pocket or on a homepage." src="assets/header-light.svg" width="100%">
+  <img alt="Gilmore Collins. $ sudo make it happen" src="assets/header-light.svg" width="100%">
 </picture>
 
-<p>
-  <a href="https://www.linkedin.com/in/gilmore-collins-0456a3245/"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="36"></a>
-  <a href="https://x.com/gilmorecollins"><img alt="X" src="assets/btn-x.svg" height="36"></a>
-  <a href="https://dev.to/gilmorecollins"><img alt="dev.to" src="assets/btn-devto.svg" height="36"></a>
-  <a href="https://instagram.com/gilmore.collins"><img alt="Instagram" src="assets/btn-instagram.svg" height="36"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gilmore-collins-0456a3245/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="36"></picture></a>
+  <a href="https://x.com/gilmorecollins"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-x-dark.svg"><img alt="X" src="assets/btn-x-light.svg" height="36"></picture></a>
+  <a href="https://dev.to/gilmorecollins"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-devto-dark.svg"><img alt="dev.to" src="assets/btn-devto-light.svg" height="36"></picture></a>
+  <a href="https://instagram.com/gilmore.collins"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg"><img alt="Instagram" src="assets/btn-instagram-light.svg" height="36"></picture></a>
 </p>
 
 <br>
