@@ -17,8 +17,8 @@
 <p>
   <a href="https://github.com/Gilmorecollins/Eclipse-releases/releases">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-eclipse-dark.svg">
-      <img alt="Eclipse: an Android app built with Flutter" src="assets/card-eclipse-light.svg" width="49%">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-eclipse-dark.svg?v=2">
+      <img alt="Eclipse: an Android app built with Flutter" src="assets/card-eclipse-light.svg?v=2" width="49%">
     </picture>
   </a>
   <a href="https://github.com/Gilmorecollins/Studies-and-Awards-Limited">
