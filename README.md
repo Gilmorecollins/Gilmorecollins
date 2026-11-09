@@ -29,14 +29,14 @@
   </a>
   <a href="https://github.com/Gilmorecollins/Clock-UI">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-clock-dark.svg">
-      <img alt="Radial Clock: a Wear OS watch face built with Watch Face Format" src="assets/card-clock-light.svg" width="49%">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-clock-dark.svg?v=2">
+      <img alt="Radial Clock: a Wear OS watch face built with Watch Face Format" src="assets/card-clock-light.svg?v=2" width="49%">
     </picture>
   </a>
   <a href="https://github.com/Gilmorecollins/Pulse">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-pulse-dark.svg">
-      <img alt="Pulse: an Android accountability app built with Flutter" src="assets/card-pulse-light.svg" width="49%">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-pulse-dark.svg?v=2">
+      <img alt="Pulse: an Android accountability app built with Flutter" src="assets/card-pulse-light.svg?v=2" width="49%">
     </picture>
   </a>
 </p>
