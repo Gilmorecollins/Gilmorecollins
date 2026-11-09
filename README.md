@@ -33,10 +33,10 @@
       <img alt="Radial Clock: a Wear OS watch face built with Watch Face Format" src="assets/card-clock-light.svg" width="49%">
     </picture>
   </a>
-  <a href="https://github.com/Gilmorecollins/Dayline">
+  <a href="https://github.com/Gilmorecollins/Pulse">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-dayline-dark.svg">
-      <img alt="Dayline: a cross-platform productivity app built with Flutter" src="assets/card-dayline-light.svg" width="49%">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-pulse-dark.svg">
+      <img alt="Pulse: an Android accountability app built with Flutter" src="assets/card-pulse-light.svg" width="49%">
     </picture>
   </a>
 </p>

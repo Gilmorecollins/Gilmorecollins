@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="140" viewBox="0 0 420 140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="419" height="139" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <defs><clipPath id="tile"><rect x="24" y="24" width="48" height="48" rx="12"/></clipPath></defs>
+  <g clip-path="url(#tile)">
+    <rect x="24" y="24" width="48" height="48" fill="#111418"/>
+    <path d="M31,49 L39,49 L42.5,42 L47,57 L51.5,36 L55,49 L65,49" fill="none" stroke="#2EE59D" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="24.5" y="24.5" width="47" height="47" rx="11.5" fill="none" stroke="#d0d7de"/>
+  <text x="92" y="44" font-size="18" font-weight="600" fill="#1f2328">Pulse</text>
+  <text x="92" y="64" font-size="12" fill="#59636e" letter-spacing="0.4">ACCOUNTABILITY APP</text>
+  <text x="24" y="98" font-size="13.5" fill="#424a53">Plan, check in, reflect, report. An Android app that</text>
+  <text x="24" y="116" font-size="13.5" fill="#424a53">tracks whether your plans actually held up.</text>
+  <circle cx="380" cy="44" r="5" fill="#00B4AB"/>
+  <text x="372" y="48" font-size="12" fill="#59636e" text-anchor="end">Flutter · Dart</text>
+</svg>
