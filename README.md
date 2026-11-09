@@ -27,6 +27,18 @@
       <img alt="Studies and Awards: client website helping Kenyan students study abroad" src="assets/card-studies-light.svg" width="49%">
     </picture>
   </a>
+  <a href="https://github.com/Gilmorecollins/Clock-UI">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-clock-dark.svg">
+      <img alt="Radial Clock: a Wear OS watch face built with Watch Face Format" src="assets/card-clock-light.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/Gilmorecollins/Dayline">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-dayline-dark.svg">
+      <img alt="Dayline: a cross-platform productivity app built with Flutter" src="assets/card-dayline-light.svg" width="49%">
+    </picture>
+  </a>
 </p>
 
 <br>

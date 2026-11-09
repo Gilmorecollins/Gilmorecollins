@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="140" viewBox="0 0 420 140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="419" height="139" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <defs><clipPath id="tile"><rect x="24" y="24" width="48" height="48" rx="12"/></clipPath></defs>
+  <g clip-path="url(#tile)">
+    <rect x="24" y="24" width="48" height="48" fill="#000000"/>
+    <circle cx="48" cy="48" r="16" fill="none" stroke="#2a2f36" stroke-width="3"/>
+    <path d="M48,32 A16,16 0 1,1 32.8,52.9" fill="none" stroke="#3DDC84" stroke-width="3" stroke-linecap="round"/>
+    <line x1="48" y1="48" x2="48" y2="39" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/>
+    <line x1="48" y1="48" x2="54.5" y2="51.5" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="48" cy="48" r="1.8" fill="#3DDC84"/>
+  </g>
+  <rect x="24.5" y="24.5" width="47" height="47" rx="11.5" fill="none" stroke="#30363d"/>
+  <text x="92" y="44" font-size="18" font-weight="600" fill="#e6edf3">Radial Clock</text>
+  <text x="92" y="64" font-size="12" fill="#9198a1" letter-spacing="0.4">WEAR OS WATCH FACE</text>
+  <text x="24" y="98" font-size="13.5" fill="#c9d1d9">A radial watch face with a live step count, battery</text>
+  <text x="24" y="116" font-size="13.5" fill="#c9d1d9">segments and a low-power always-on mode.</text>
+  <circle cx="380" cy="44" r="5" fill="#3DDC84"/>
+  <text x="372" y="48" font-size="12" fill="#9198a1" text-anchor="end">Wear OS · WFF</text>
+</svg>
